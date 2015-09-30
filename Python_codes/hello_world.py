@@ -1,7 +1,6 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 print "hello world!"
-print "ÄãºÃ ÊÀ½ç£¡"
+print "ä½ å¥½ ä¸–ç•Œï¼"
 print "hello world!"
 print "hello Github!"
